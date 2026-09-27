@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I.m Frances
+
+I'm a Computer Engineering student at the University of Puerto Rico at Mayaguez interested in software engineering, artificial intelligence, machine learning, and autonomous systems.
+
+I enjoy building projects that let me explore new technologies, solve real-world problems, and turn ideas into useful software.
 
 <!--
 **francessola/francessola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
