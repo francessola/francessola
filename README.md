@@ -14,6 +14,13 @@ Real-time computer vision application that enables touch-free computer control u
 
 **Built with:** Python, OpenCV, MediaPipe, PyAutoGUI, Tkinter
 
+## Technologies & Tools
+**Languages:** Python, C, C++
+**Software Development:** Git, GitHub, Linux, Bash
+**Computer Vision:** OpenCV, MediaPipe
+**Autonomous Systems:** ROS 2, Gazebo, PX4, Docker
+**Frameworks & Tools:** PyQt6, Tkinter
+
 <!--
 **francessola/francessola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
