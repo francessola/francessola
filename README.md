@@ -21,6 +21,11 @@ Real-time computer vision application that enables touch-free computer control u
 **Autonomous Systems:** ROS 2, Gazebo, PX4, Docker
 **Frameworks & Tools:** PyQt6, Tkinter
 
+## Currently
+- Conducting undergraduate research in autonomous systems
+- Learning machine learning and exploring AI applications
+- Building personal software projects to strengthen my software engineering skills
+
 <!--
 **francessola/francessola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
