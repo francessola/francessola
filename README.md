@@ -27,7 +27,7 @@ Real-time computer vision application that enables touch-free computer control u
 - Building personal software projects to strengthen my software engineering skills
 
 ## Connect With Me
-- [LinkedIn](www.linkedin.com/in/frances-solá-lópez)
+- [LinkedIn](https://www.linkedin.com/in/TU-URL-REAL/)
 
 <!--
 **francessola/francessola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
