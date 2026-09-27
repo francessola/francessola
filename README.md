@@ -1,8 +1,18 @@
-## Hi, I.m Frances
+## Hi, I'm Frances
 
 I'm a Computer Engineering student at the University of Puerto Rico at Mayaguez interested in software engineering, artificial intelligence, machine learning, and autonomous systems.
 
 I enjoy building projects that let me explore new technologies, solve real-world problems, and turn ideas into useful software.
+
+## Featured Projects
+### [Gesture Control](https://github.com/francessola/GestureControl)
+Real-time computer vision application that enables touch-free computer control using hand gestures.
+
+- Control the cursor using index-finger tracking and pinch-to-click
+- Navigate presentation slides using hand gestures
+- Real-time hand tracking and custom gesture recognition using 21 hand landmarks
+
+**Built with:** Python, OpenCV, MediaPipe, PyAutoGUI, Tkinter
 
 <!--
 **francessola/francessola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
