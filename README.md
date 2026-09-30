@@ -1,16 +1,31 @@
-## Hi, I'm Frances
+# Hi, I'm Frances 
 
-I'm a Computer Engineering student at the University of Puerto Rico at Mayaguez interested in software engineering, artificial intelligence, machine learning, and autonomous systems.
+I'm a Computer Engineering student at the University of Puerto Rico at Mayagüez interested in software engineering, artificial intelligence, machine learning, and autonomous systems.
 
-I enjoy building projects that let me explore new technologies, solve real-world problems, and turn ideas into useful software.
+I enjoy building projects that solve real problems while giving me the opportunity to explore new technologies and strengthen my skills as an engineer.
 
 ## Featured Projects
-### [Gesture Control](https://github.com/francessola/GestureControl)
-Real-time computer vision application that enables touch-free computer control using hand gestures.
+
+### [StudentOS](https://github.com/francessola/StudentOS)
+
+A student productivity application designed to help students organize their academic workload, prioritize tasks, and plan their time.
+
+- Manage courses, assignments, deadlines, and estimated task durations
+- Calculate task priorities and recommend what to work on
+- Generate daily work plans based on academic responsibilities
+- Currently expanding from a C++ CLI into a full productivity application
+
+**Built with:** C++, Object-Oriented Programming
+
+>  StudentOS is currently in active development.
+
+### [GestureControl](https://github.com/francessola/GestureControl)
+
+A real-time computer vision application that enables touch-free computer control using hand gestures.
 
 - Control the cursor using index-finger tracking and pinch-to-click
 - Navigate presentation slides using hand gestures
-- Real-time hand tracking and custom gesture recognition using 21 hand landmarks
+- Perform real-time hand tracking and custom gesture recognition using 21 hand landmarks
 
 **Built with:** Python, OpenCV, MediaPipe, PyAutoGUI, Tkinter
 
@@ -27,11 +42,13 @@ Real-time computer vision application that enables touch-free computer control u
 **Frameworks & Tools:** PyQt6, Tkinter
 
 ## Currently
+
 - Conducting undergraduate research in autonomous systems
+- Developing StudentOS and expanding its task-planning and scheduling capabilities
 - Learning machine learning and exploring AI applications
-- Building personal software projects to strengthen my software engineering skills
 
 ## Connect With Me
+
 - [LinkedIn](https://www.linkedin.com/in/frances-sol%C3%A1-l%C3%B3pez/)
 
 <!--
